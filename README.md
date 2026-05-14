@@ -53,7 +53,7 @@
 
 - GitHub: https://github.com/dpieton-dev
 - LinkedIn: Coming soon
-- Portfolio: Coming soon
+- Portfolio: https://portfolio-dominique.vercel.app
 
 ---
 
