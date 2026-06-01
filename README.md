@@ -7,7 +7,7 @@
 💻 PHP Symfony Developer  
 🚀 Backend & API REST Developer  
 🐳 Docker Enthusiast  
-🌴 Based in Guadeloupe  
+🌴 Based in France
 🌍 Open to Remote Opportunities  
 
 ---
